@@ -7,6 +7,6 @@ fun main() {
 
     val formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss.SSS")
     val formatted = current.format(formatter)
-
+//format
     println("Current Date and Time is: $formatted")
 }
