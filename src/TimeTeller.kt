@@ -8,5 +8,5 @@ fun main() {
     val formatted = current.format(formatter)
 //formatABHI
     println("Current Date and Time is like: $formatted")
-
+    println("Lol")
 }
